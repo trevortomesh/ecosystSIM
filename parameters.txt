@@ -1,0 +1,14 @@
+growRate = 100
+foodPopMax = 50
+foodExpireAge = 1000
+
+starveTime = 1000
+spawnNumber = 1
+delay = 1
+killDist = 5
+litterSize = 1
+
+starveTime=5000
+delay = 1
+litterSize = 5
+
